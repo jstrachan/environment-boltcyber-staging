@@ -8,5 +8,5 @@ dependencies:
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.112
 - name: nodey239
-  repository: http://localhost:8080/bucketrepo/charts
+  repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
